@@ -1,0 +1,8 @@
+{
+  "columns": [
+    {"title": "货号", "dataIndex": "name", "key": "name"},
+    {"title": "颜色", "dataIndex": "color", "key": "color"},
+    {"title": "数量", "dataIndex": "num", "key": "num"}
+  ],
+  "data":[]
+}
